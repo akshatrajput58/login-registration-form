@@ -9,12 +9,12 @@ This is a Responsive Login and Registration Form which is built from HTML5 &amp;
 
 ## Demo
 
-Insert gif or link to demo
+Check Out Here
 
 https://demo.vicpra.com/contactform/form-1/
 ## Authors
 
-- [@octokatherine](https://github.com/akshatrajput58/)
+- [@akshatrajput58](https://github.com/akshatrajput58/)
 
 
 
